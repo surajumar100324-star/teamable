@@ -6,4 +6,4 @@ this is an application for managing employee profiles
     npm run test
 
 ### To package the application execute 
-npm run pack   
+npm  pack   
